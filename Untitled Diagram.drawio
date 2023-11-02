@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T01:12:57.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="pMqfIsVrdcIrA3Cr9ZxR" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T01:19:43.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="MAgdk3PeMSxl7SHpWp60" version="22.0.8" type="github">
   <diagram name="Page-1" id="fvCVN2XYS4yNgo8-7P7I">
     <mxGraphModel dx="954" dy="594" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,6 +40,35 @@
         </mxCell>
         <mxCell id="Cbzf6kwpWyUW0-TvyLtS-21" value="SELESAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbzf6kwpWyUW0-TvyLtS-22" target="Cbzf6kwpWyUW0-TvyLtS-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-22" value="MULAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbzf6kwpWyUW0-TvyLtS-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-23" value="INPUT VARIABLE PI DAN JARI JARI" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="820" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbzf6kwpWyUW0-TvyLtS-31" target="Cbzf6kwpWyUW0-TvyLtS-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-31" value="LUAS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Cbzf6kwpWyUW0-TvyLtS-32" target="Cbzf6kwpWyUW0-TvyLtS-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-32" value="OUTPUT ADALAH HASIL DARI VARIABLE LUAS" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1040" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Cbzf6kwpWyUW0-TvyLtS-34" value="SELESAI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
